@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="1056" version="1.1" viewBox="0 0 816 1056">
+  <defs>
+    <clipPath id="clipPath240450">
+      <path d="m0 0h459v561h-459z"></path>
+    </clipPath>
+    <clipPath id="clipPath240460">
+      <path d="m0 0h459v518h-459z"></path>
+    </clipPath>
+    <clipPath id="clipPath240472">
+      <path d="m0 0h459v561h-459z"></path>
+    </clipPath>
+    <clipPath id="clipPath240552">
+      <path d="m30 54h131v22h-131z"></path>
+    </clipPath>
+    <clipPath id="clipPath240566">
+      <path d="m30 119h40v22h-40z"></path>
+    </clipPath>
+    <clipPath id="clipPath240580">
+      <path d="m30 203h80v22h-80z"></path>
+    </clipPath>
+    <clipPath id="clipPath240594">
+      <path d="m30 441h65v22h-65z"></path>
+    </clipPath>
+    <clipPath id="clipPath240608">
+      <path d="m213-2h108v33h-108z"></path>
+    </clipPath>
+    <clipPath id="clipPath240622">
+      <path d="m314-2h116v33h-116z"></path>
+    </clipPath>
+    <clipPath id="clipPath240636">
+      <path d="m35.25 32.25h388.5v15h-388.5z"></path>
+    </clipPath>
+    <clipPath id="clipPath240648">
+      <path d="m0 0h459v561h-459z"></path>
+    </clipPath>
+    <clipPath id="clipPath240656">
+      <path d="m209 31h48v17h-48z"></path>
+    </clipPath>
+    <clipPath id="clipPath240670">
+      <path d="m245 31h14v17h-14z"></path>
+    </clipPath>
+    <clipPath id="clipPath240684">
+      <path d="m249 31h22v17h-22z"></path>
+    </clipPath>
+    <clipPath id="clipPath240698">
+      <path d="m261 31h31v17h-31z"></path>
+    </clipPath>
+    <clipPath id="clipPath240712">
+      <path d="m282 31h14v17h-14z"></path>
+    </clipPath>
+    <clipPath id="clipPath240726">
+      <path d="m286 31h55v17h-55z"></path>
+    </clipPath>
+    <clipPath id="clipPath240740">
+      <path d="m331 31h14v17h-14z"></path>
+    </clipPath>
+    <clipPath id="clipPath240754">
+      <path d="m335 31h91v17h-91z"></path>
+    </clipPath>
+    <clipPath id="clipPath240768">
+      <path d="m30 75h375v17h-375z"></path>
+    </clipPath>
+    <clipPath id="clipPath240782">
+      <path d="m30 86h382v18h-382z"></path>
+    </clipPath>
+    <clipPath id="clipPath240796">
+      <path d="m30 97h179v18h-179z"></path>
+    </clipPath>
+    <clipPath id="clipPath240810">
+      <path d="m47 139h92v18h-92z"></path>
+    </clipPath>
+    <clipPath id="clipPath240828">
+      <path d="m220 139h80v18h-80z"></path>
+    </clipPath>
+    <clipPath id="clipPath240846">
+      <path d="m47 152h93v18h-93z"></path>
+    </clipPath>
+    <clipPath id="clipPath240864">
+      <path d="m220 152h55v18h-55z"></path>
+    </clipPath>
+    <clipPath id="clipPath240882">
+      <path d="m47 166h63v18h-63z"></path>
+    </clipPath>
+    <clipPath id="clipPath240900">
+      <path d="m220 166h65v18h-65z"></path>
+    </clipPath>
+    <clipPath id="clipPath240918">
+      <path d="m47 179h86v18h-86z"></path>
+    </clipPath>
+    <clipPath id="clipPath240936">
+      <path d="m220 179h79v18h-79z"></path>
+    </clipPath>
+    <clipPath id="clipPath240954">
+      <path d="m352 223h40v18h-40z"></path>
+    </clipPath>
+    <clipPath id="clipPath240968">
+      <path d="m380 223h22v18h-22z"></path>
+    </clipPath>
+    <clipPath id="clipPath240982">
+      <path d="m392 223h38v18h-38z"></path>
+    </clipPath>
+    <clipPath id="clipPath240996">
+      <path d="m30 223h78v18h-78z"></path>
+    </clipPath>
+    <clipPath id="clipPath241010">
+      <path d="m30 234h109v18h-109z"></path>
+    </clipPath>
+    <clipPath id="clipPath241024">
+      <path d="m127 234h19v18h-19z"></path>
+    </clipPath>
+    <clipPath id="clipPath241038">
+      <path d="m136 234h50v18h-50z"></path>
+    </clipPath>
+    <clipPath id="clipPath241052">
+      <path d="m174 234h14v18h-14z"></path>
+    </clipPath>
+    <clipPath id="clipPath241066">
+      <path d="m179 234h23v18h-23z"></path>
+    </clipPath>
+    <clipPath id="clipPath241080">
+      <path d="m47 246h300v17h-300z"></path>
+    </clipPath>
+    <clipPath id="clipPath241098">
+      <path d="m47 257h344v18h-344z"></path>
+    </clipPath>
+    <clipPath id="clipPath241116">
+      <path d="m47 268h221v18h-221z"></path>
+    </clipPath>
+    <clipPath id="clipPath241134">
+      <path d="m349 288h41v17h-41z"></path>
+    </clipPath>
+    <clipPath id="clipPath241148">
+      <path d="m378 288h21v17h-21z"></path>
+    </clipPath>
+    <clipPath id="clipPath241162">
+      <path d="m389 288h41v17h-41z"></path>
+    </clipPath>
+    <clipPath id="clipPath241176">
+      <path d="m30 288h78v17h-78z"></path>
+    </clipPath>
+    <clipPath id="clipPath241190">
+      <path d="m30 299h115v18h-115z"></path>
+    </clipPath>
+    <clipPath id="clipPath241204">
+      <path d="m133 299h19v18h-19z"></path>
+    </clipPath>
+    <clipPath id="clipPath241218">
+      <path d="m142 299h51v18h-51z"></path>
+    </clipPath>
+    <clipPath id="clipPath241232">
+      <path d="m181 299h14v18h-14z"></path>
+    </clipPath>
+    <clipPath id="clipPath241246">
+      <path d="m185 299h23v18h-23z"></path>
+    </clipPath>
+    <clipPath id="clipPath241260">
+      <path d="m47 310h308v18h-308z"></path>
+    </clipPath>
+    <clipPath id="clipPath241278">
+      <path d="m47 321h330v18h-330z"></path>
+    </clipPath>
+    <clipPath id="clipPath241296">
+      <path d="m47 333h376v17h-376z"></path>
+    </clipPath>
+    <clipPath id="clipPath241310">
+      <path d="m47 344h33v18h-33z"></path>
+    </clipPath>
+    <clipPath id="clipPath241328">
+      <path d="m349 363h41v18h-41z"></path>
+    </clipPath>
+    <clipPath id="clipPath241342">
+      <path d="m378 363h21v18h-21z"></path>
+    </clipPath>
+    <clipPath id="clipPath241356">
+      <path d="m389 363h41v18h-41z"></path>
+    </clipPath>
+    <clipPath id="clipPath241370">
+      <path d="m30 363h73v18h-73z"></path>
+    </clipPath>
+    <clipPath id="clipPath241384">
+      <path d="m30 375h95v17h-95z"></path>
+    </clipPath>
+    <clipPath id="clipPath241398">
+      <path d="m113 375h19v17h-19z"></path>
+    </clipPath>
+    <clipPath id="clipPath241412">
+      <path d="m122 375h46v17h-46z"></path>
+    </clipPath>
+    <clipPath id="clipPath241426">
+      <path d="m156 375h14v17h-14z"></path>
+    </clipPath>
+    <clipPath id="clipPath241440">
+      <path d="m160 375h23v17h-23z"></path>
+    </clipPath>
+    <clipPath id="clipPath241454">
+      <path d="m47 386h358v18h-358z"></path>
+    </clipPath>
+    <clipPath id="clipPath241468">
+      <path d="m47 397h77v18h-77z"></path>
+    </clipPath>
+    <clipPath id="clipPath241486">
+      <path d="m47 408h264v18h-264z"></path>
+    </clipPath>
+    <clipPath id="clipPath241504">
+      <path d="m47 420h282v17h-282z"></path>
+    </clipPath>
+    <clipPath id="clipPath241522">
+      <path d="m384 461h46v18h-46z"></path>
+    </clipPath>
+    <clipPath id="clipPath241536">
+      <path d="m30 461h30v18h-30z"></path>
+    </clipPath>
+    <clipPath id="clipPath241550">
+      <path d="m48 461h14v18h-14z"></path>
+    </clipPath>
+    <clipPath id="clipPath241564">
+      <path d="m52 461h76v18h-76z"></path>
+    </clipPath>
+    <clipPath id="clipPath241578">
+      <path d="m30 473h129v18h-129z"></path>
+    </clipPath>
+    <clipPath id="clipPath241592">
+      <path d="m149 473h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath241606">
+      <path d="m154 473h63v18h-63z"></path>
+    </clipPath>
+    <clipPath id="clipPath241620">
+      <path d="m205 473h17v18h-17z"></path>
+    </clipPath>
+    <clipPath id="clipPath241634">
+      <path d="m212 473h23v18h-23z"></path>
+    </clipPath>
+    <clipPath id="clipPath241648">
+      <path d="m384 492h46v18h-46z"></path>
+    </clipPath>
+    <clipPath id="clipPath241662">
+      <path d="m30 492h88v18h-88z"></path>
+    </clipPath>
+    <clipPath id="clipPath241676">
+      <path d="m106 492h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath241690">
+      <path d="m111 492h39v18h-39z"></path>
+    </clipPath>
+    <clipPath id="clipPath241704">
+      <path d="m30 503h129v18h-129z"></path>
+    </clipPath>
+    <clipPath id="clipPath241718">
+      <path d="m149 503h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath241732">
+      <path d="m154 503h63v18h-63z"></path>
+    </clipPath>
+    <clipPath id="clipPath241746">
+      <path d="m205 503h17v18h-17z"></path>
+    </clipPath>
+    <clipPath id="clipPath241760">
+      <path d="m212 503h23v18h-23z"></path>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.3333 0 0 -1.3333 0 1056)">
+    <g transform="matrix(1.3333 0 0 1.3333 0 22)">
+      <g clip-path="url(#clipPath240450)">
+        <g transform="matrix(1,0,0,-1,0,561)">
+          <g clip-path="url(#clipPath240460)">
+            <path d="m0 0h459v518h-459z" fill="#fff"></path>
+          </g>
+          <g clip-path="url(#clipPath240472)">
+            <path d="m424 73.5h-389" fill="none" stroke="#333" stroke-miterlimit="10"></path>
+            <path d="m424 137.5h-389" fill="none" stroke="#333" stroke-miterlimit="10"></path>
+            <path d="m424 221.5h-389" fill="none" stroke="#333" stroke-miterlimit="10"></path>
+            <path d="m424 460.5h-389" fill="none" stroke="#333" stroke-miterlimit="10"></path>
+            <g clip-path="url(#clipPath240552)">
+              <text transform="translate(35.25,68.75)" fill="#000000" font-family="Arial" font-size="11px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 7.3369999 11.616 18.326 22 28.115999 34.231998 40.348 43.405998 50.116001 56.826 62.942001 66 69.046997 76.373001 83.083 92.873001 102.652 108.768 113.047" y="0">Professional Summary</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240566)">
+              <text transform="translate(35.25 133.12)" fill="#000000" font-family="Arial" font-size="11px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 7.3369999 13.453 16.5 19.547001 22.605" y="0">Skills</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240580)">
+              <text transform="translate(35.25,217.25)" fill="#000000" font-family="Arial" font-size="11px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 10.362 17.061001 21.318001 27.423 30.459 38.379002 41.415001 47.52 51.160999 57.860001 62.127998" y="0">Work History</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240594)">
+              <text transform="translate(35.25 455.62)" fill="#000000" font-family="Arial" font-size="11px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 7.3369999 14.058 20.768 26.895 33.011002 36.685001 39.743 46.452999" y="0">Education</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240608)">
+              <text transform="translate(218.45,22.25)" fill="#333333" font-family="Arial" font-size="21px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 17.493 23.330999 38.493 53.675999 68.837997 82.823997" y="0">MICHAEL</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240622)">
+              <text transform="translate(319.94 22.25)" fill="#000000" font-family="Arial" font-size="21px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 19.823999 25.662001 38.472 51.303001 57.119999 72.303001 89.817001" y="0">WILLIAMS</tspan>
+              </text>
+            </g>
+          </g>
+          <g clip-path="url(#clipPath240636)">
+            <path d="m35.25 32.25h388.5v15h-388.5z"></path>
+          </g>
+          <g clip-path="url(#clipPath240648)">
+            <g clip-path="url(#clipPath240656)">
+              <text transform="translate(214.05,42.75)" fill="#ffffff" font-family="Arial" font-size="7px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 6.6009998 8.54 10.479 12.418 14.357 18.249001 24.465 28.357 32.626999" y="0">Williamson</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240670)">
+              <text transform="translate(250.95,42.75)" fill="#ffffff" font-family="Arial" font-size="7px" font-weight="bold" xml:space="preserve">
+                <tspan x="0" y="0">,</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240684)">
+              <text transform="translate(254.85 42.75)" fill="#ffffff" font-family="Arial" font-size="7px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 5.0539999" y="0">NY</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240698)">
+              <text transform="translate(266.52 42.75)" fill="#ffffff" font-family="Arial" font-size="7px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 3.7939999 7.5879998 11.382 15.176" y="0">28811</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240712)">
+              <text transform="translate(287.54 42.75)" fill="#ffffff" font-family="Arial" font-size="7px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 1.967" y="0">| </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240726)">
+              <text transform="translate(291.45 42.75)" fill="#ffffff" font-family="Arial" font-size="7px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 3.885 7.777 11.662 13.986 17.878 21.763 25.648001 27.979 31.864 35.749001 39.640999" y="0">555-555-5555</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240740)">
+              <text transform="translate(336.92 42.75)" fill="#ffffff" font-family="Arial" font-size="7px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 1.967" y="0">| </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240754)">
+              <text transform="translate(340.84 42.75)" fill="#ffffff" font-family="Arial" font-size="7px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 3.892 7.7839999 11.676 17.899 22.176001 24.115 28.007 34.832001 38.723999 42.616001 46.507999 52.730999 57.000999 58.939999 62.832001 64.778 68.669998 72.940002" y="0">example@example.com</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240768)">
+              <text transform="translate(35.25,87)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776 7.5599999 12.008 16.455999 18.24 22.24 24.455999 26.672001 29.344 33.792 35.568001 40.023998 44.472 48.919998 51.144001 53.807999 58.256001 62.703999 64.487999 68.487999 70.704002 75.160004 77.823997 82.272003 86.727997 88.944 93.391998 97.839996 100.512 104.512 108.96 111.184 116.96 118.736 120.96 125.408 127.624 131.62399 133.84801 136.51199 140.96001 145.416 149.864 152.08 156.088 157.864 159.64 164.088 165.87199 169.87199 174.32001 176.104 178.32001 182.76801 187.224 189 190.776 192.552 194.776 196.552 201 205.008 207.224 211.672 216.12801 220.576 222.79201 227.24001 229.464 233.464 237.912 241.92 245.92 250.368 254.368 258.37601 260.59201 265.04001 266.82401 269.04001 273.04001 277.496 280.16 284.608 289.056 291.728 293.944 295.72 300.17599 302.392 306.84 311.29599 313.51199 317.95999 320.17599 326.84799 331.29599 335.74399 337.52802 341.52802 345.97601 347.76001 349.97601 354.42401 358.87201" y="0">Highly trained registered nurse with strong clinical abilities and a successful career in both medical and</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240782)">
+              <text transform="translate(35.25,98.25)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 4.448 8.9040003 13.352 15.576 17.351999 21.351999 23.576 26.24 30.24 32.464001 34.68 39.127998 43.136002 44.911999 46.695999 48.472 50.688 52.472 56.919998 60.919998 63.144001 65.360001 70.695999 73.360001 77.807999 82.264 86.264 88.480003 90.264 94.264 98.711998 100.936 105.384 109.84 114.288 116.504 120.96 123.624 128.07201 132.528 136.976 138.752 142.75999 147.20799 151.664 153.88 159.65601 161.44 163.65601 168.104 170.328 174.776 179.224 183.23199 187.23199 189.01601 193.464 197.912 202.368 204.584 209.032 211.256 215.256 219.71201 226.37601 233.03999 234.82401 237.03999 243.70399 248.16 252.608 254.82401 257.048 259.26401 263.72 265.936 270.384 273.056 277.504 281.504 283.28799 287.73599 292.18399 294.40799 296.62399 298.40799 301.07199 305.07199 307.29599 309.95999 312.62399 317.07999 319.29599 323.75201 325.96799 330.41599 334.87201 337.08801 338.86401 343.32001 347.76801 349.98401 352.20801 356.20801 360.664 363.328 367.776" y="0">dentistry facilities. Proactive and organized with passionate commitment to provide first-rate patient care.</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240796)">
+              <text transform="translate(35.25,109.5)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 4.448 6.2319999 10.232 14.68 19.128 23.136 27.584 32.032001 34.256001 36.032001 40.48 42.695999 48.48 52.928001 54.703999 56.487999 58.703999 63.152 65.816002 70.272003 72.047997 76.496002 78.720001 84.496002 86.272003 88.487999 92.944 95.160004 99.608002 103.616 108.064 112.512 115.176 117.4 119.176 123.176 127.632 129.84801 131.62399 136.07201 138.29601 142.744 147.192 149.856 153.864 155.64 160.088 164.54401" y="0">Licensed in California with expertise in nursing.</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240810)">
+              <text transform="translate(52.5 151.38)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 6.664 11.12 15.568 17.344 21.344 23.128 27.576 32.023998 34.248001 38.695999 43.144001 47.599998 49.816002 54.264 58.712002 63.167999 65.384003 67.160004 71.167999 73.384003 76.047997" y="0">Medicine and dentistry</tspan>
+              </text>
+            </g>
+            <path d="m46.898 147.18c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath240828)">
+              <text transform="translate(225.41 151.38)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 4.448 8.9040003 13.352 16.016001 20.472 22.247999 26.695999 31.143999 33.368 37.368 39.584 42.256001 46.703999 48.919998 53.368 57.824001 59.599998 64.047997" y="0">Learning strategies</tspan>
+              </text>
+            </g>
+            <path d="m219.81 147.18c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.6016-.71875-1.6016-1.6016.71875-1.5977 1.6016-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath240846)">
+              <text transform="translate(52.5,164.75)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.336 9.3360004 13.336 17.336 21.784 26.24 28.016001 32.464001 36.911999 40.911999 43.136002 47.136002 51.584 56.032001 61.807999 63.591999 68.040001 72.487999 76.935997" y="0">Psychology knowledge</tspan>
+              </text>
+            </g>
+            <path d="m46.898 160.55c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath240864)">
+              <text transform="translate(225.41 164.75)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.336 9.7840004 12.008 13.784 18.24 22.688 24.912001 27.128 31.128 35.584 38.248001" y="0">Patient care</tspan>
+              </text>
+            </g>
+            <path d="m219.81 160.55c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.6016-.71875-1.6016-1.6016.71875-1.5977 1.6016-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath240882)">
+              <text transform="translate(52.5 178.12)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.336 9.7840004 16.448 18.232 22.68 24.455999 28.455999 30.68 33.344002 37.792 40.007999 41.792 46.240002" y="0">Administration</tspan>
+              </text>
+            </g>
+            <path d="m46.898 173.93c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath240900)">
+              <text transform="translate(225.41 178.12)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.336 9.3360004 11.552 13.336 17.336 21.784 24.007999 25.784 27.559999 31.568001 33.784 38.231998 42.688 44.464001 48.911999" y="0">Active listening</tspan>
+              </text>
+            </g>
+            <path d="m219.81 173.93c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.6016-.71875-1.6016-1.6016.71875-1.5977 1.6016-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath240918)">
+              <text transform="translate(52.5,191.5)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.336 9.7840004 14.232 16.016001 20.464001 27.136 31.584 36.032001 38.256001 40.472 44.919998 49.375999 53.824001 56.487999 60.944 63.16 64.935997 69.391998" y="0">Equipment operation</tspan>
+              </text>
+            </g>
+            <path d="m46.898 187.3c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath240936)">
+              <text transform="translate(225.41 191.5)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776 10.232 14.232 18.68 25.344 29.799999 34.248001 36.464001 38.240002 42.695999 47.144001 49.360001 53.360001 55.144001 57.360001 61.807999 63.584" y="0">Documenting vitals</tspan>
+              </text>
+            </g>
+            <path d="m219.81 187.3c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.6016-.71875-1.6016-1.6016.71875-1.5977 1.6016-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath240954)">
+              <text transform="translate(357.02 235.5)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 4.448 8.9040003 11.12 15.576 20.024 24.472" y="0">09/2022</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240968)">
+              <text transform="translate(388.17 235.5)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.224 6.6799998" y="0">to </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240982)">
+              <text transform="translate(397.08 235.5)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776 10.224 12.888 15.552 20.007999 24.455999" y="0">Current</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath240996)">
+              <text transform="translate(35.25,235.5)" fill="#333333" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 5.776 10.232 15.112 17.336 21.784 24.448 28.903999 32.015999 36.472 41.352001 43.568001 49.352001 54.231998 57.352001 61.799999" y="0">Registered Nurse</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241010)">
+              <text transform="translate(35.25,246.75)" fill="#333333" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 5.336 8.0080004 11.12 16.007999 20.888 25.775999 27.992001 34.664001 39.119999 46.231998 51.119999 54.231998 56.456001 60.903999 63.127998 65.344002 71.127998 76.015999 80.463997 85.351997 87.568001 90.239998 94.688004" y="0">Strong Memorial Hospital</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241024)">
+              <text transform="translate(134.85 246.75)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 4.9120002" y="0">– </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241038)">
+              <text transform="translate(141.06 246.75)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 7.5440001 9.3199997 11.096 12.88 14.656 19.104 25.768 29.768 34.216" y="0">Williamson</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241052)">
+              <text transform="translate(179.73 246.75)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0" y="0">,</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241066)">
+              <text transform="translate(184.18 246.75)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776" y="0">NY</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241080)">
+              <text transform="translate(52.5,258)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776 10.232 16.896 21.344 25.799999 29.799999 32.015999 34.688 39.136002 41.352001 45.807999 49.807999 52.023998 56.48 60.928001 63.144001 64.928001 69.375999 73.823997 76.047997 78.264 82.264 86.720001 89.384003 93.832001 96.056 97.832001 102.28 104.504 108.504 110.28 112.064 116.512 118.288 122.296 126.744 128.528 130.744 135.192 139.64799 141.424 143.64 147.64799 149.864 154.312 156.536 158.752 163.2 167.65601 171.65601 176.104 177.888 180.104 184.552 186.336 190.336 192.552 194.776 198.776 200.992 203.664 208.112 212.56 219.23199 221.008 222.784 227.24001 229.01601 233.464 237.92 240.136 245.912 250.368 253.032 257.03201 259.25601 263.70401 267.70401 269.92801 274.37601 278.82401 285.944" y="0">Demonstrates patient care in clinical units of hospitals, streamlining work by 35%.</tspan>
+              </text>
+            </g>
+            <path d="m46.898 253.8c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath241098)">
+              <text transform="translate(52.5,269.25)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.336 9.3360004 13.344 17.792 21.792 25.799999 28.016001 32.015999 33.799999 35.576 40.023998 41.807999 45.807999 50.256001 52.040001 54.256001 58.703999 63.16 67.608002 71.608002 76.064003 78.279999 80.056 84.512001 88.959999 91.176003 95.632004 100.08 104.528 108.984 112.984 115.2 119.656 124.104 128.552 130.776 135.224 139.672 141.896 143.672 148.12 152.576 154.79201 157.008 161.464 165.912 170.36 172.584 176.584 178.36 180.144 184.592 189.03999 191.26401 193.48 195.696 200.15199 204.60001 208.60001 213.056 214.832 219.28 223.73599 225.952 230.39999 234.856 239.304 243.752 247.75999 249.976 254.424 258.43201 260.20801 264.65601 269.112 271.328 275.328 279.784 282.448 284.224 288.67999 293.12799 297.12799 299.35199 306.01599 310.46399 312.68799 317.13599 321.58401 326.04001 330.04001" y="0">Assess clinical education needs and patient and client teaching needs using various methods.</tspan>
+              </text>
+            </g>
+            <path d="m46.898 265.05c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath241116)">
+              <text transform="translate(52.5,280.5)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.224 6.6719999 8.8879995 13.344 16.007999 22.672001 26.68 28.896 33.352001 37.799999 41.799999 45.807999 47.584 51.584 53.368 57.816002 62.264 66.272003 68.487999 72.935997 75.160004 77.375999 81.823997 86.279999 88.496002 90.272003 94.727997 99.176003 101.392 102.92 106.92 109.136 113.144 117.592 122.04 126.496 128.272 130.48801 132.272 136.72 141.17599 143.392 147.84 152.29601 154.96001 156.73599 161.192 165.64 167.856 172.312 176.75999 181.20799 185.216 187.43201 191.88 196.336 200.336 202.112 206.56799" y="0">Informs physicians of patient's condition during anesthesia.</tspan>
+              </text>
+            </g>
+            <path d="m46.898 276.3c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath241134)">
+              <text transform="translate(354.77 300)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 4.448 8.9040003 11.12 15.576 20.024 24.472" y="0">09/2018</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241148)">
+              <text transform="translate(385.92 300)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.224 6.6799998" y="0">to </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241162)">
+              <text transform="translate(394.83 300)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 4.448 8.9040003 11.12 15.576 20.024 24.472" y="0">01/2021</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241176)">
+              <text transform="translate(35.25,300)" fill="#333333" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 5.776 10.232 15.112 17.336 21.784 24.448 28.903999 32.015999 36.472 41.352001 43.568001 49.352001 54.231998 57.352001 61.799999" y="0">Registered Nurse</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241190)">
+              <text transform="translate(35.25,311.25)" fill="#333333" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 7.552 9.7679996 11.984 14.2 16.424 20.872 27.983999 32.431999 34.647999 41.32 45.768002 52.880001 57.759998 60.872002 63.096001 67.543999 69.760002 71.975998 77.760002 82.639999 87.087997 91.968002 94.183998 96.856003 101.304" y="0">Williams Memorial Hospital</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241204)">
+              <text transform="translate(141.46 311.25)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 4.9120002" y="0">– </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241218)">
+              <text transform="translate(147.68 311.25)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 7.5440001 9.3199997 11.096 12.88 14.656 19.104 25.768 29.768 34.216" y="0">Williamson</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241232)">
+              <text transform="translate(186.34 311.25)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0" y="0">,</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241246)">
+              <text transform="translate(190.79 311.25)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776" y="0">NY</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241260)">
+              <text transform="translate(52.5,322.5)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 6.664 11.12 15.568 17.351999 19.568001 21.344 25.799999 30.247999 32.464001 36.919998 41.368 43.591999 45.368 49.816002 54.271999 56.487999 58.703999 60.928001 63.591999 68.047997 72.496002 74.711998 81.384003 85.832001 90.279999 92.503998 94.720001 99.176003 100.952 105.4 109.856 113.856 116.072 120.528 124.528 126.752 128.528 132.976 137.43201 139.20799 143.216 147.664 149.88 154.336 158.784 161 165.45599 169.45599 171.67999 176.12801 180.576 182.8 184.576 189.024 193.48 195.696 199.70399 201.224 203.44 206.112 210.56 214.56 219.01601 223.464 227.92 231.92 236.368 240.37601 242.592 247.03999 251.496 255.944 258.168 262.168 266.616 271.07199 275.51999 277.30399 279.51999 281.29599 285.75201 290.20001 294.20001" y="0">Modified patient treatment plans as indicated by patients' responses and conditions.</tspan>
+              </text>
+            </g>
+            <path d="m46.898 318.3c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath241278)">
+              <text transform="translate(52.5,333.75)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.336 9.7840004 16.455999 18.232 22.68 24.464001 28.464001 30.68 35.136002 37.799999 42.248001 46.703999 48.919998 50.695999 55.152 59.152 63.608002 65.384003 67.599998 69.823997 71.599998 76.047997 80.503998 84.952003 86.727997 91.183998 93.400002 95.176003 99.632004 104.08 106.296 108.52 110.296 114.752 116.968 119.632 124.088 128.088 132.536 136.992 141.44 145.888 149.896 152.112 156.56 159.23199 161.448 165.90401 168.12 172.56799 177.024 179.688 181.90401 186.36 190.808 195.256 199.26401 201.48 205.92799 210.384 212.60001 214.37601 218.384 222.384 224.608 230.384 232.16 234.384 238.832 241.048 245.504 247.72 252.168 256.62399 261.07199 268.18399 270.40799 274.40799 278.85599 282.86401 286.86401 291.32001 295.32001 299.32001 301.54401 304.20801 308.65601 310.88 315.328" y="0">Administered local, inhalation, intravenous or other anesthetics with a 100% success rate.</tspan>
+              </text>
+            </g>
+            <path d="m46.898 329.55c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath241296)">
+              <text transform="translate(52.5,345)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776 7.5599999 10.224 14.672 18.672001 20.896 25.344 29.792 32.015999 36.464001 39.127998 41.344002 45.352001 49.799999 54.248001 58.703999 61.368 65.367996 67.143997 71.152 75.599998 80.047997 82.272003 84.047997 88.496002 92.496002 96.503998 99.167999 103.168 107.176 108.952 110.728 112.504 116.96 121.408 123.624 128.07201 132.528 135.192 139.192 140.976 145.424 149.87199 152.088 156.54401 159.20799 161.424 165.88 170.328 174.776 176.552 178.776 183.224 187.224 191.67999 194.34399 198.79201 201.008 205.464 209.912 212.576 216.576 221.032 225.48 229.92799 234.384 236.16 238.37601 240.592 245.048 249.496 253.944 256.168 260.616 265.064 269.064 271.28799 275.28799 279.73599 284.19199 288.64001 291.30399 295.30399 297.08801 301.08801 305.53601 309.992 312.20801 316.65601 318.87201 324.65601 329.104 333.552 335.328 339.784 342 346.448 350.90399 352.67999 354.896 357.112 361.56799" y="0">Directed or supervised less-skilled nursing or healthcare personnel, and has supervised a whole unit at</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241310)">
+              <text transform="translate(52.5,356.25)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.224 4 10.664 15.112 19.112" y="0">times.</tspan>
+              </text>
+            </g>
+            <path d="m46.898 340.8c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath241328)">
+              <text transform="translate(354.77 375.75)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 4.448 8.9040003 11.12 15.576 20.024 24.472" y="0">09/2017</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241342)">
+              <text transform="translate(385.92 375.75)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.224 6.6799998" y="0">to </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241356)">
+              <text transform="translate(394.83 375.75)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 4.448 8.9040003 11.12 15.576 20.024 24.472" y="0">01/2018</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241370)">
+              <text transform="translate(35.25,375.75)" fill="#333333" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 5.776 10.664 13.776 18.232 22.68 24.896 30.68 35.127998 39.576 41.799999 46.248001 48.919998 53.368 58.248001" y="0">Nurse Assistant</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241384)">
+              <text transform="translate(35.25,387)" fill="#333333" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 5.336 9.7840004 14.24 17.351999 21.808001 26.688 28.903999 34.688 39.136002 43.591999 46.703999 49.375999 51.591999 57.368 62.256001 66.704002 71.592003 73.807999 76.480003 80.928001" y="0">Sacred Heart Hospital</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241398)">
+              <text transform="translate(121.09 387)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 4.9120002" y="0">– </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241412)">
+              <text transform="translate(127.3,387)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776 10.232 16.007999 18.232 22.823999 27.271999 29.936001" y="0">New York</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241426)">
+              <text transform="translate(161.24 387)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0" y="0">,</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241440)">
+              <text transform="translate(165.69 387)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776" y="0">NY</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241454)">
+              <text transform="translate(52.5,398.25)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776 10.232 14.68 18.68 23.136 24.912001 27.136 31.584 36.032001 38.256001 42.703999 47.152 51.608002 53.824001 57.824001 62.279999 66.727997 69.391998 73.848 75.624001 80.071999 84.528 86.744003 91.199997 95.648003 97.863998 103.648 105.424 107.64 112.096 114.312 118.76 123.216 127.664 129.44 131.664 136.112 140.112 144.56799 147.23199 151.67999 153.90401 156.12 160.576 165.024 171.688 173.912 180.576 185.024 191.696 196.144 200.592 203.26401 207.26401 209.48 211.70399 216.15199 218.368 222.82401 226.82401 230.832 235.28 239.28 243.28799 245.504 247.72 252.17599 253.952 258.39999 262.85599 265.07199 267.28799 269.07199 275.73599 280.18399 281.96799 286.41599 293.07999 297.53601 301.98401 304.20801 306.42401 310.87201 313.54401 315.76001 320.20801 324.216 328.664 330.44 334.896 339.34399 341.56" y="0">Consulted and coordinated with healthcare team members to assess, plan, implement or evaluate</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241468)">
+              <text transform="translate(52.5,409.5)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 4.448 8.9040003 11.12 12.904 17.351999 21.799999 24.024 26.24 30.24 34.695999 37.360001 41.816002 44.032001 48.48 50.264 54.712002 59.16 63.167999" y="0">patient care plans.</tspan>
+              </text>
+            </g>
+            <path d="m46.898 394.05c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath241486)">
+              <text transform="translate(52.5,420.75)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 6.664 11.12 15.568 17.344 19.568001 24.016001 26.68 31.136 35.584 37.807999 42.256001 44.032001 45.816002 48.032001 52.48 56.487999 60.936001 65.384003 69.391998 71.608002 75.608002 77.832001 82.279999 84.496002 86.720001 91.167999 95.624001 97.839996 99.615997 104.072 108.52 110.736 112.96 116.96 121.408 124.08 128.528 130.744 132.528 136.976 140.976 142.75999 147.20799 151.65601 153.44 157.888 162.34399 164.56 169.008 170.79201 175.24001 177.45599 179.67999 184.12801 188.576 193.032 195.248 199.696 204.15199 208.15199 212.15199 213.936 217.936 222.392 224.168 226.384 230.84 234.84 237.056 238.84 242.84 244.616 246.84 250.256" y="0">Monitored all aspects of patient care including diet and physical activity.</tspan>
+              </text>
+            </g>
+            <path d="m46.898 416.55c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath241504)">
+              <text transform="translate(52.5,432)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 6.224 10.672 14.672 19.128 21.792 25.792 30.247999 34.695999 36.911999 41.368 45.816002 48.48 52.487999 56.936001 60.936001 63.16 67.608002 72.056 76.512001 78.727997 82.727997 84.512001 88.512001 90.288002 92.512001 96.959999 101.408 103.632 108.08 112.08 116.536 119.2 121.416 125.872 130.32001 132.536 136.992 141.44 143.65601 145.44 149.888 154.336 156.56 160.56 162.776 165 169.448 171.664 176.12 180.56799 184.56799 189.024 191.688 196.136 198.36 202.808 205.472 209.92799 214.37601 218.82401 221.496 223.71201 228.16 232.616 235.28 239.28 241.064 245.51199 249.96001 252.18401 256.18399 260.63199 263.30399 267.75201" y="0">Observed nurses and visited over 50 patients to ensure proper nursing care.</tspan>
+              </text>
+            </g>
+            <path d="m46.898 427.8c.88281 0 1.6016.71485 1.6016 1.5977s-.71875 1.6016-1.6016 1.6016-1.5977-.71875-1.5977-1.6016.71485-1.5977 1.5977-1.5977z" fill="#333"></path>
+            <g clip-path="url(#clipPath241522)">
+              <text transform="translate(389.5 473.88)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776 10.232 14.232 16.448 20.903999 25.351999 29.799999" y="0">Dec 2016</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241536)">
+              <text transform="translate(35.25 473.88)" fill="#333333" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 6.6719999 12" y="0">MSN</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241550)">
+              <text transform="translate(53.025 473.88)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.2320001" y="0">: </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241564)">
+              <text transform="translate(57.475 473.88)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776 10.232 12.896 16.896 21.351999 23.568001 28.896 31.568001 36.015999 40.015999 42.231998 44.015999 46.231998 48.007999 52.464001 56.911999 61.360001" y="0">Nurse Practitioner</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241578)">
+              <text transform="translate(35.25 485.12)" fill="#333333" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 5.336 9.7919998 14.672 16.896 21.775999 24.896 29.344 34.231998 38.68 40.903999 45.352001 49.807999 54.688 56.911999 62.240002 64.912003 69.360001 72.031998 76.487999 78.704002 84.487999 89.367996 91.592003 96.040001 100.496 103.608 108.064 110.28 112.952" y="0">San Francisco State University</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241592)">
+              <text transform="translate(154.88 485.12)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.664" y="0">- </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241606)">
+              <text transform="translate(159.76 485.12)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.336 9.7840004 14.232 16.455999 21.336 24 28.455999 32.903999 36.903999 38.68 42.688 46.688" y="0">San Francisco</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241620)">
+              <text transform="translate(213.13 485.12)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.224" y="0">, </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241634)">
+              <text transform="translate(217.58 485.12)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776" y="0">CA</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241648)">
+              <text transform="translate(389.49 504.62)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.336 9.7840004 14.24 16.455999 20.912001 25.360001 29.816" y="0">Sep 2013</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241662)">
+              <text transform="translate(35.25 504.62)" fill="#333333" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 5.7839999 10.232 14.688 19.568001 24.024 26.247999 31.128 34.248001 36.464001 41.352001 44.023998 46.240002 51.576 56.023998 58.248001 62.703999 67.584 72.040001" y="0">Bachelor of Science</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241676)">
+              <text transform="translate(111.74 504.62)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.2320001" y="0">: </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241690)">
+              <text transform="translate(116.19 504.62)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776 10.224 12.888 16.888 18.664 23.112" y="0">Nursing</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241704)">
+              <text transform="translate(35.25 515.88)" fill="#333333" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 5.336 9.7919998 14.672 16.896 21.775999 24.896 29.344 34.231998 38.68 40.903999 45.352001 49.807999 54.688 56.911999 62.240002 64.912003 69.360001 72.031998 76.487999 78.704002 84.487999 89.367996 91.592003 96.040001 100.496 103.608 108.064 110.28 112.952" y="0">San Francisco State University</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241718)">
+              <text transform="translate(154.88 515.88)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.664" y="0">- </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241732)">
+              <text transform="translate(159.76 515.88)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.336 9.7840004 14.232 16.455999 21.336 24 28.455999 32.903999 36.903999 38.68 42.688 46.688" y="0">San Francisco</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241746)">
+              <text transform="translate(213.13 515.88)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.224" y="0">, </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath241760)">
+              <text transform="translate(217.58 515.88)" fill="#333333" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.776" y="0">CA</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
