@@ -1,8 +1,6 @@
-import { Tempelate } from "../assets/asset";
 import { useState } from "react";
 
 const ResumeBuilder = () => {
-  // Personal Information
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [phone, setPhone] = useState("");
@@ -11,46 +9,42 @@ const ResumeBuilder = () => {
   const [nationality, setNationality] = useState("");
   const [linkedin, setLinkedin] = useState("");
   const [portfolio, setPortfolio] = useState("");
-
-  // Professional Information
   const [jobTitle, setJobTitle] = useState("");
   const [summary, setSummary] = useState("");
   const [certifications, setCertifications] = useState("");
   const [languages, setLanguages] = useState("");
-
-  // Education
   const [institution, setInstitution] = useState("");
   const [degree, setDegree] = useState("");
   const [fieldOfStudy, setFieldOfStudy] = useState("");
   const [graduationDate, setGraduationDate] = useState("");
-
-  // Experience
   const [companyName, setCompanyName] = useState("");
   const [startDate, setStartDate] = useState("");
   const [endDate, setEndDate] = useState("");
   const [currentJob, setCurrentJob] = useState(false);
   const [responsibilities, setResponsibilities] = useState("");
-
-  // Skills
   const [technicalSkills, setTechnicalSkills] = useState("");
   const [softSkills, setSoftSkills] = useState("");
-
-  // Projects
   const [projectName, setProjectName] = useState("");
   const [projectDescription, setProjectDescription] = useState("");
   const [technologiesUsed, setTechnologiesUsed] = useState("");
   const [projectUrl, setProjectUrl] = useState("");
-
-  // References
   const [referenceName, setReferenceName] = useState("");
   const [referencePosition, setReferencePosition] = useState("");
   const [referenceCompany, setReferenceCompany] = useState("");
   const [referenceContact, setReferenceContact] = useState("");
-
   const [isReview, setIsReview] = useState(false);
 
   const handleSubmit = (e) => {
     e.preventDefault();
+  };
+
+  const handlePrint = () => {
+    const printContents = document.getElementById("resume-preview").innerHTML;
+    const originalContents = document.body.innerHTML;
+    document.body.innerHTML = printContents;
+    window.print();
+    document.body.innerHTML = originalContents;
+    window.location.reload();
   };
 
   return (
@@ -63,7 +57,6 @@ const ResumeBuilder = () => {
           onSubmit={handleSubmit}
           className="col-span-2 grid grid-cols-1 md:grid-cols-2 gap-4 p-6 bg-white rounded-lg shadow-md"
         >
-          {/* Personal Information */}
           <div className="col-span-2">
             <h2 className="text-lg font-semibold text-gray-700 mb-4">
               Personal Information
@@ -170,7 +163,6 @@ const ResumeBuilder = () => {
             </div>
           </div>
 
-          {/* Professional Information */}
           <div className="col-span-2">
             <h2 className="text-lg font-semibold text-gray-700 mb-4">
               Professional Information
@@ -227,7 +219,6 @@ const ResumeBuilder = () => {
             </div>
           </div>
 
-          {/* Education */}
           <div className="col-span-2">
             <h2 className="text-lg font-semibold text-gray-700 mb-4">
               Education
@@ -284,7 +275,6 @@ const ResumeBuilder = () => {
             </div>
           </div>
 
-          {/* Experience */}
           <div className="col-span-2">
             <h2 className="text-lg font-semibold text-gray-700 mb-4">
               Experience
@@ -363,7 +353,6 @@ const ResumeBuilder = () => {
             </div>
           </div>
 
-          {/* Skills */}
           <div className="col-span-2">
             <h2 className="text-lg font-semibold text-gray-700 mb-4">Skills</h2>
             <div className="flex gap-4">
@@ -396,7 +385,6 @@ const ResumeBuilder = () => {
             </div>
           </div>
 
-          {/* Projects */}
           <div className="col-span-2">
             <h2 className="text-lg font-semibold text-gray-700 mb-4">
               Projects
@@ -453,7 +441,6 @@ const ResumeBuilder = () => {
             </div>
           </div>
 
-          {/* References */}
           <div className="col-span-2">
             <h2 className="text-lg font-semibold text-gray-700 mb-4">
               References
@@ -510,7 +497,6 @@ const ResumeBuilder = () => {
             </div>
           </div>
 
-          {/* Submit Button */}
           <button
             type="submit"
             onClick={() => setIsReview(!isReview)}
@@ -520,15 +506,15 @@ const ResumeBuilder = () => {
           </button>
         </form>
       </div>
-      {/* Resume Preview */}
+
       {isReview && (
         <div className="p-2 absolute top-0 left-0 bg-black/70 w-full flex items-center justify-center">
           <div
+            id="resume-preview"
             className="p-4 bg-white h-full rounded shadow-lg"
             style={{ width: "210mm" }}
           >
             <div className="h-full border p-4">
-              {/* Header Section */}
               <div className="text-center border-b pb-4">
                 <h1 className="text-2xl font-bold">{name || "Your Name"}</h1>
                 <p className="text-sm">{jobTitle || "Job Title"}</p>
@@ -538,7 +524,6 @@ const ResumeBuilder = () => {
                 <p className="text-xs">{address}</p>
               </div>
 
-              {/* Summary Section */}
               <div className="mt-4">
                 <h2 className="text-lg font-semibold">Summary</h2>
                 <p className="text-sm">
@@ -546,7 +531,6 @@ const ResumeBuilder = () => {
                 </p>
               </div>
 
-              {/* Education Section */}
               <div className="mt-4">
                 <h2 className="text-lg font-semibold">Education</h2>
                 <p className="text-sm">
@@ -557,7 +541,6 @@ const ResumeBuilder = () => {
                 </p>
               </div>
 
-              {/* Experience Section */}
               <div className="mt-4">
                 <h2 className="text-lg font-semibold">Experience</h2>
                 <p className="text-sm font-bold">{companyName}</p>
@@ -567,14 +550,12 @@ const ResumeBuilder = () => {
                 <p className="text-sm">{responsibilities}</p>
               </div>
 
-              {/* Skills Section */}
               <div className="mt-4">
                 <h2 className="text-lg font-semibold">Skills</h2>
                 <p className="text-sm">{technicalSkills}</p>
                 <p className="text-sm">{softSkills}</p>
               </div>
 
-              {/* Projects Section */}
               <div className="mt-4">
                 <h2 className="text-lg font-semibold">Projects</h2>
                 <p className="text-sm font-bold">{projectName}</p>
@@ -583,7 +564,6 @@ const ResumeBuilder = () => {
                 <p className="text-xs">{projectUrl}</p>
               </div>
 
-              {/* References Section */}
               <div className="mt-4 border-t pt-4">
                 <h2 className="text-lg font-semibold">References</h2>
                 <p className="text-sm font-bold">{referenceName}</p>
@@ -594,15 +574,18 @@ const ResumeBuilder = () => {
               </div>
             </div>
           </div>
-          {/* close */}
+
           <div
             className="p-2 text-white rounded-full bg-red-600"
             onClick={() => setIsReview(!isReview)}
           >
             close
           </div>
-          <br />
-          <div className="p-2 text-white rounded-full bg-green-600 absolute left-10 top-10">
+
+          <div
+            className="p-2 text-white rounded-full bg-green-600 absolute left-10 top-10"
+            onClick={handlePrint}
+          >
             Print
           </div>
         </div>
